@@ -35,7 +35,7 @@ class mi_card extends StatelessWidget {
                 ),
               ),
               Text(
-                'FLUTTER FULLSTACK DEVELOPER',
+                'FLUTTER FULLSTACK DEVELOPMENT',
                 style: TextStyle(
                     color: Colors.teal.shade200,
                     fontFamily: 'SourceSansPro-BlackItalic'),
